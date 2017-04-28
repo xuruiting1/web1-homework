@@ -1,0 +1,31 @@
+body{
+	color:gray;
+	font-size:12px;
+	font-family:'Arial';
+	text-height:2em;
+}
+a{
+	color:#727272;
+	text-decoration:none;
+}
+a:hover{
+	text-decoration:underline;
+}
+.head{
+	color:#b9f605;
+	font-size:14px;
+	font-weight:bold;
+}
+.first{
+	color:white;
+}
+.first:hover{
+	color:#b9f605;
+	text-decoration:none;
+}
+#sp{
+	color:#fdb306;
+}
+#two{
+	color: #90fb1e;
+}
