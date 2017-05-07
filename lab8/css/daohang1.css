@@ -1,0 +1,46 @@
+body div ul{
+	margin-left:40px;
+	margin-top:0px;
+	margin-bottom:0px;
+	padding:0px;
+}
+#titlediv {
+	background-image: url(../image/left_nav_title.gif);
+	background-repeat: no-repeat;
+	width: 183px;
+	height: 47px;
+	color: white;
+	text-align: center;
+	margin-left: 40px;
+	padding-top: 5px;
+	background-position: -0.1em 100%;
+}
+ul{
+	background-image: url(../image/left_nav_txt.gif);
+	background-repeat:repeat-y; 
+	
+}
+li{
+	list-style-image: url(../image/left_cur.gif);
+	width: 183px;
+	background-image: url(../image/left_nav_item.gif);
+	background-repeat: no-repeat;
+	margin-left: 40px;
+	padding-top: 5px;
+	background-position: -3em 100%;
+	line-height:1.5em;
+}
+a{
+	text-decoration: none;
+}
+.checked{
+	color: red;
+}
+#footerdiv{
+	background-image: url(../image/left_nav_bottom.gif);
+	background-repeat: no-repeat;
+	height:35px;
+	width: 183px; 
+	margin-left: 40px;
+}
+							 	  

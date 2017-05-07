@@ -1,0 +1,30 @@
+
+ul{
+	background-image: url(../image/bg.gif);
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 50px;
+	margin-top:10px;
+}
+li{
+	
+	list-style-type: none;
+	float: left;
+	color: #a7f027;
+	font-weight: bold;
+	text-indent: 2em;
+	text-align: center;
+	line-height: 1.5em;
+	margin-top:10px;
+}
+a{
+	color: white;
+	text-decoration: none;
+	text-indent: 4px;
+}
+.first{
+	background-image: url(../image/lvbiaoti.png);
+}
+.specil{
+	color: #f2cb14;
+}
