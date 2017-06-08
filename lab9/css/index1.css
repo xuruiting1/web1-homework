@@ -39,7 +39,7 @@ span{
 	width: 1200px;
 	font-weight: bold;
 	text-height:50px;
-	margin-left: 135px;
+	margin-left: 100px;
 }
 .nav_content{
 	text-align: center;
@@ -65,7 +65,7 @@ span{
 	height: 19px;
 	background-color: #f8f5ee;
 	margin-left: 830px;
-	margin-top: -15px;
+	
 
 }
 .sousuo{
@@ -83,7 +83,7 @@ span{
 	margin: auto;
 	clear: left;
 	clear: right;
-	margin-left: 180px;
+	margin-left: 130px;
 	
 }
 /*页面主体部分的顶部*/
