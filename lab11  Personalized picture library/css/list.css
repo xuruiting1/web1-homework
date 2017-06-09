@@ -1,0 +1,34 @@
+.imgage
+{
+    margin:3px;
+    border:1px solid #bebebe;
+    height:auto;
+    width:auto;
+    float:left;
+    text-align:center;
+    opacity: 0.5;
+}
+.imgage:hover
+{
+    opacity: 1.0;
+}
+.imgage img
+{
+    display:inline;
+    margin:3px;
+    border:1px solid #bebebe;
+    width: 200px;
+    height: 160px;
+}
+.imgage a:hover img
+{
+    border:1px solid #333333;
+}
+.city
+{
+text-align:center;
+font-weight:normal;
+width:200px;
+font-size:12px;
+margin:10px 5px 10px 5px;
+}
