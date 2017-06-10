@@ -1,0 +1,262 @@
+
+body{
+	align-content:center;
+	font-size:12px;
+	color:#522a06;
+	padding:0px;
+	background-image:url(../images/bodybg.gif);
+}
+
+img{
+	border:none;
+}
+ul{
+	list-style:none;
+}
+a{
+	text-decoration:none;
+}
+a{
+	color:#522a06;
+}
+a:hover{
+	text-decoration:underline;
+}
+span{
+	float: right;
+}
+
+.header{
+	background-image: url(../images/bg.gif);
+	height: 215px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-position: top;
+	margin: -5px;
+
+}
+.banner{
+	width: 1000px;
+	height: 164px;
+	background-position: center;
+	margin-left: 140px;
+	padding-top: 30px;
+}
+.nav{
+	height: 40px;
+	background-image: url(../images/nav.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	margin-top: -25px;
+}
+.nav_body{
+	width: 1200px;
+	font-weight: bold;
+	text-height:50px;
+	margin-left: 130px;
+}
+.nav_content{
+	text-align: center;
+	width: 1000px;
+	font-size:12px;
+	padding-top: 0.2em;
+}
+.oneul li{
+	border-right: 2px #ffffff solid;
+	list-style: none;
+	float: left;
+	margin-right: 10px;
+	padding-right: 20px;
+}
+.oneul li a:hover{
+	text-decoration:none;
+	color:#f9f603;
+}
+.oneul a{
+			color: white;
+		}
+#huang{
+		color: yellow;
+}
+#abcd{
+	border: none;
+}
+.sousuo{
+	border: 1px #f8f5ee solid;
+	margin-left: 971px;
+	margin-top: -24px;
+}
+.nav_search{
+	margin-top: -5px;
+}
+.text{
+	height: 60px;
+}
+.button{
+	height: 40px;
+	background-color:black;
+	color:white;
+}
+
+/*页面主体部分*/
+
+#content{
+	width: 1000px;
+	height: 540px;
+	margin: auto;
+	font-size:12px;
+	color:#522a06;
+}
+
+.dangqianweizhi{
+	width: 1000px;
+	height: 20px;
+	font-size:12px;
+	color:#522a06;
+	
+}
+/*页面主体部分的左边*/
+.content_left{
+	width: 230px;
+	float: left;
+}
+
+
+.pxdt0{
+	width: 230px;
+	height: 280px;
+	background-image: url(../images/bg.png);
+	border: 1px solid #c9baa5;
+}
+.zs{
+	color: #dc143c;
+	
+}
+.list1{
+	background-image: url(../images/menubg.gif);
+	background-repeat: no-repeat;
+}
+.pxdt0 ul{
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 30px;
+	margin-left: 45px;
+
+}
+.pxdt{
+	margin-left: 25px;
+}
+
+.pxdt1{
+
+	height: 220px;
+	width: 230px;
+	background-image: url(../images/bg.png);
+	border: 1px solid #c9baa5;
+	font-size: 12px;
+	line-height: 30px;
+	
+}
+.pxdt1 ul{
+	margin-left: 35px;
+}
+.news0{
+	margin-top: 10px;
+	margin-left: 15px;
+}
+
+/*页面主体部分的右边*/
+.content_right{
+	width: 770px;
+	float: right;
+}
+.content_right_top{
+	width: 700px;
+	
+}
+.spe{
+	
+	height: 45px;
+	background-image: url(../images/listtitle.png);
+	background-size: 720px;
+	background-repeat: no-repeat;
+	font-size: 16px;
+	/*color: red;*/
+	
+}
+.spec{
+	color: #dc143c;
+	padding-left:50px;
+	padding-top: 10px;
+}
+.notice{
+	width: 500px;
+	line-height: 37px;
+	float: left;
+	list-style: disc;
+}
+.date{
+	line-height: 37px;
+	float: right;
+}
+.content_right_bottom{
+	width:500px;
+	margin: auto;
+}
+.page{
+	float:left;
+	margin-top: 0px;
+}
+.input0{
+	width: 20px;
+	float: left;
+	font-size:12px;
+	color:#522a06;
+	border: 1px #522a06 solid;
+}
+
+
+
+
+
+
+
+/*页脚部分*/
+#footer{
+	height: 105px;
+	background-image: url(../images/foot.gif);
+	margin-top: 200px;
+}
+.list7{
+	width: 600px;
+	margin: auto;
+
+}
+.list7 ul li{
+	list-style: none;
+
+}
+.abc{
+	float: left;
+	color: #000000;
+	font-size:12px;
+	font-weight: bold;
+	margin-right: 15px;
+	border-right: 2px #000000 solid;
+	padding-right: 20px;
+}
+#abcd{
+	border: none;
+}
+.line{
+	margin-top: 40px;
+	clear: left;
+	margin-left: 350px;
+}
+.banquan{
+	font-size:12px;
+	font-family: serif;
+	color: #522a06;
+	line-height: 1.8em;
+	margin-left: 450px;
+}
