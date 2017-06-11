@@ -147,8 +147,6 @@ span{
 	padding-left: -6px;
 	
 }
-
-
 .list1{
 	width: 355px;
 	float: left;
@@ -156,10 +154,7 @@ span{
 	font-size: 12px;
 	line-height: 1.8em;
 	margin-left: -25px;
-
-
 }
-
 #new_announce{
 	width: 277px;
 	height: 205px;
@@ -175,9 +170,7 @@ span{
 	height:23px;
 	margin-top: -35px;
 	margin-left: 40px;
-
 }
-
 .list2{
 	font-size: 12px;
 	background-image: url(../images/board_bg.png);
@@ -198,7 +191,6 @@ span{
 #academic{
 	width: 355px;
 	float: left;
-	
 }
 .academicpng{
 	float: left;
