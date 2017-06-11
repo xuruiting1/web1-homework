@@ -1,12 +1,27 @@
 <!-- 页头部分 -->
 body{
-	
-	font-family:'宋体'；
-	height: 3000px;
+	align-content:center;
+	font-size:12px;
+	color:#522a06;
+	padding:0px;
+	font-family:"宋体";
+	background-image:url(../images/bodybg.gif);
+}
+
+img{
+	border:none;
+}
+ul{
+	list-style:none;
 }
 a{
-	text-decoration: none;
-	line-height: 1.8em;
+	text-decoration:none;
+}
+a{
+	color:#522a06;
+}
+a:hover{
+	text-decoration:underline;
 }
 span{
 	float: right;
@@ -14,7 +29,7 @@ span{
 
 .header{
 	background-image: url(../images/bg.gif);
-	height: 205px;
+	height: 215px;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-position: top;
@@ -25,7 +40,7 @@ span{
 	width: 1000px;
 	height: 164px;
 	background-position: center;
-	margin-left: 50px;
+	margin-left: 140px;
 	padding-top: 30px;
 }
 .nav{
@@ -39,10 +54,11 @@ span{
 	width: 1200px;
 	font-weight: bold;
 	text-height:50px;
-	margin-left: 135px;
+	margin-left: 130px;
 }
 .nav_content{
 	text-align: center;
+	width: 1000px;
 	font-size:12px;
 	padding-top: 0.2em;
 }
@@ -53,45 +69,46 @@ span{
 	margin-right: 10px;
 	padding-right: 20px;
 }
+.oneul li a:hover{
+	text-decoration:none;
+	color:#f9f603;
+}
+.oneul a{
+			color: white;
+		}
+#huang{
+		color: yellow;
+}
 #abcd{
 	border: none;
 }
-
-.niu{
-	margin-top: -22px;
-}
-.kuang{
-	width: 140px;
-	height: 19px;
-	background-color: #f8f5ee;
-	margin-left: 830px;
-	margin-top: -15px;
-
-}
 .sousuo{
-	
-	background-color: #000000;
-	color: #ffffff;
-	
 	border: 1px #f8f5ee solid;
-	margin-left: 931px;
+	margin-left: 971px;
 	margin-top: -24px;
+}
+.nav_search{
+	margin-top: -5px;
+}
+.text{
+	height: 60px;
+}
+.button{
+	height: 40px;
+	background-color:black;
+	color:white;
 }
 /*页面主体部分*/
 #content{
 	width: 1000px;
 	margin: auto;
-	clear: left;
-	clear: right;
-	margin-left: 180px;
+	margin-left: 160px;
 	
 }
 /*页面主体部分的顶部*/
 #content_top{
 	height: 210px;
 	overflow: hidden;
-	
-	margin-top: 9px;
 }
 #news_pic{
 	width: 324px;
@@ -266,7 +283,7 @@ span{
 .showpng{
 	height: 40px;
 	margin-left: 70px;
-	margin-top: 15px;
+	margin-top: 7px;
 	position: center;
 	
 }
