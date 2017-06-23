@@ -1,0 +1,328 @@
+body{
+	align-content:center;
+	padding:0px;
+	background-color: #fef8b3;
+	font-family:'宋体'；
+	margin:0px;
+}
+img{
+	border:none;
+}
+a{
+	text-decoration:none;
+}
+a:hover{
+	text-decoration:underline;
+}
+li{
+	list-style: none;
+}
+/*页头部分*/
+.head1{
+	height: 240px;
+}
+.bannerheight{
+	height: 213px;
+}
+.logosize{
+	width:125px;
+	height:119px;
+}
+.logo{
+	margin-top: -150px;
+	margin-left: 100px;
+}
+.banner{
+	width: 100%;
+	margin:auto;
+	margin-top: -6px;
+}
+.button{
+	margin-top: 10px;
+	float: right;
+}
+.register{
+	float: right;
+}
+.text{
+	width: 400px;
+	height: 20px;
+	border-top: 1px solid #312E3D;   
+    border-left: 1px solid #312E3D;   
+    border-right: 1px solid #312E3D;   
+    border-bottom: 1px solid #56536A;   
+}
+#nav{
+	height: 35px;
+	background-color: #ac6e47;
+	margin-top: 23px;
+}
+.search{
+	float: right;
+	margin-top: -25px
+}
+#first a{
+	color: yellow;
+}
+.daohang {
+	margin-left: 75px;
+	line-height: 2em;
+}
+.daohang li{
+	
+	list-style: none;
+	float: left;
+	margin-right: 30px;
+	font-size: 20px;
+}
+.daohang li a{
+	color: white;
+}
+.daohang li a:hover{
+	color: yellow;
+}
+/*页面主体部分*/
+#suspension{
+	width: 150px;
+	height: 300px;
+}
+.content_bian{
+	float: left;
+	margin-top: 115px;
+}
+.qianggou{
+	width: 150px;
+}
+.qianggou1{
+	margin-top: -95px;
+}
+#suspens{
+	width: 150px;
+	height: 300px;
+	float: right;
+	margin-top: -215px;
+}
+.content_youbian{
+	float: left;
+	margin-top: -300px;
+}
+#content{
+	width: 1000px;
+	height: 640px;
+	margin: auto;
+	margin-top: -292px;
+
+}
+/*页面主体部分的左边*/
+
+.content_left{
+	width: 780px;
+	float: left;
+}
+.book{
+	font-size:14px;
+	color:#f04155;
+	font-weight: bold;
+}
+.wenyi{
+	font-size: 12px;
+	text-align: center;
+	color: #757575;
+}
+.title{
+	height: 45px;
+	font-size: 16px;
+	line-height: 45px;
+	text-align: center;
+	color:#f04155;
+	font-weight: bold;
+	border-bottom: 1px solid #757575;
+}
+.content_middle{
+	line-height: 28px;
+	padding: 5px;
+	font-size: 14px;
+	border-bottom: 1px solid #ac6e47;
+	margin-bottom: -17px;
+}
+.dianmian{
+	margin: 15px;
+}
+p{
+	text-indent:2em;
+	color:#f04155;
+}
+.part1{
+	width: 480px;
+	height: 390px;
+	float: left;
+	padding: 6px;
+}
+.imgage
+{
+    margin:3px;
+    height:auto;
+    width:auto;
+    float:left;
+    text-align:center;
+    opacity: 0.5;
+}
+.imgage:hover
+{
+    opacity: 1.0;
+}
+.imgage img
+{
+    display:inline;
+    margin:3px;
+    border:1px solid #bebebe;
+    width: 200px;
+    height: 160px;
+}
+.imgage a:hover img
+{
+    border:1px solid #333333;
+}
+.dianmian
+{
+	text-align:center;
+	font-weight:bold;
+	width:100px;
+	font-size:14px;
+	margin:auto;
+}
+.dianmian a{
+	color:#fe0a0a; 
+}
+
+.content_left_bottom{
+	margin:auto;
+	font-size: 13px;
+	margin-top: 50px;
+	margin-bottom: 10px;
+}
+.content_left_bottom a{
+	color:#f7b006;
+}
+.ooo{
+	float: left;
+	margin-left: 80px;
+	margin-right: 260px;
+}
+/*页面主体部分的右边*/
+.content_right{
+	width: 200px;
+	height: 610;
+	float: right;
+}
+.oneul{
+	margin-left: -20px;
+	list-style: none;
+}
+.oneul li a{
+	list-style: none;
+	line-height: 2em;
+}
+.oneul li{
+	list-style: disc;
+	font-size: 14px;
+
+}
+.twoul{
+	float: right;
+}
+.message{
+	background-color:#f04155;
+	float: right;
+}
+#messages{
+	margin-left: 35px;
+}
+#ppp{
+	list-style: none;
+}
+#li1{
+	list-style: none;
+}
+#two2{
+	list-style: none;
+}
+#three3{
+	list-style: none;
+}
+#four4{
+	list-style: none;
+}
+.comment{
+	width: 199px;
+	float: left;
+	border: 1px dotted #e9967a;
+}
+.potcomment{
+	height:20px;
+}
+table{
+	background-color:#f04155;
+}
+.ping{
+	margin-left: 60px;
+}
+.table2 tr td{
+	font:15px '宋体';
+	color: #000000;
+}
+.table2 tr td input,textarea{
+	background-color: #faebd7;
+}
+.sub{
+	margin-left: 100px;
+	margin-left: 50px;
+}
+.len{
+	width: 118px;
+}
+#len2{
+	width: 118px;
+	
+}
+.len1{
+	width: 176px;
+
+}
+
+/*页脚部分*/
+.footer{
+	height: 105px;
+	width: 800px;
+	margin:auto;
+	margin-bottom: 30px;
+	font-size: 12px;
+}
+.list2{
+	width: 600px;
+	float: left;
+}
+.list2 li a{
+	color: #ac6e47;
+	border-right: 1px solid #000000;
+	margin-right: 9px;
+	padding-right: 8px;
+	float: left;
+}
+.banquan{
+	width: 700px;
+	float: left;
+	color: #ac6e47;
+}
+.logo2{
+	width: 90px;
+	float: left;
+	margin-top:-30px;
+	margin-left: -25px;
+}
+.erweima{
+	float: right;
+	margin-top:-70px;
+}
+
+
